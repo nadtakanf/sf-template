@@ -1,0 +1,13 @@
+{
+  "comment": "Example for InputPath.",
+  "dataset1": {
+    "val1": 1,
+    "val2": 2,
+    "val3": 3
+  },
+  "dataset2": {
+    "val1": "a",
+    "val2": "b",
+    "val3": "c"
+  }
+}

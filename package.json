@@ -4,7 +4,8 @@
   "description": "A Serverless Framework Template for Step Functions",
   "main": "handler.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "serverless deploy --verbose"
   },
   "author": "Nadtakan Futhoem",
   "license": "ISC",
